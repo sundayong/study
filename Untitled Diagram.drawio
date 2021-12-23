@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T05:05:02.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="16.0.3" etag="p5CmvVEQH4YfjrwtFQh0" type="github"><diagram id="-kvsVOUWG0oy8sDPWCeW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-23T05:10:07.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Su7YnkvM610Fe9TSwFm1" version="16.0.3" type="github">
+  <diagram id="-kvsVOUWG0oy8sDPWCeW" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tdfwSTttqGeDFuwTI-6s-3" value="IP数据采集系统" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="365" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="tdfwSTttqGeDFuwTI-6s-5" value="智能城域网管系统" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tdfwSTttqGeDFuwTI-6s-6" value="&lt;span&gt;数据网数字化运营系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdfwSTttqGeDFuwTI-6s-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdfwSTttqGeDFuwTI-6s-8" value="综合业务分析平台" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
